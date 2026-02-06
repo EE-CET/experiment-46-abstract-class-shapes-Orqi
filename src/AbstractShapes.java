@@ -5,7 +5,7 @@ abstract class Shape {
 }
 class Rectangle extends Shape{
     void numberOfSide(){
-        System.out.println("Reactangle has 4 sides");
+        System.out.println("Rectangle has 4 sides");
     }
 }
 
